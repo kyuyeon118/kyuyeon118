@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is kyu yeon. Glad to meet u guys.
 
 <!--
 **kyuyeon118/kyuyeon118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
